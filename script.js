@@ -443,7 +443,172 @@ const subtitles = [
       text: "Et au bout du compte, c'est la vie que je veux mener."
     },
     // Victor experience ---------------------------------------------------------------------------------------
-    
+      {
+    start: 776,
+    end: 785,
+    text: "Chaque jour, je me réveille avec joie, car je vais chez les gens pour leur apporter des fleurs."
+  },
+  {
+    start: 785,
+    end: 798,
+    text: "Beaucoup de gens ne savent même pas qu'ils vont recevoir des fleurs. Quand je les vois sourire, être heureux, dire qu'ils sont choqués ou qu'ils ne s'y attendaient pas..."
+  },
+  {
+    start: 798,
+    end: 807,
+    text: "Cela me procure énormément de joie. J'ai toujours appris que..."
+  },
+  {
+    start: 807,
+    end: 815,
+    text: "Les bonnes actions se font en silence, tandis que le mal... crie et détruit."
+  },
+  {
+    start: 815,
+    end: 822,
+    text: "Au revoir. Passe une bonne journée."
+  },
+  {
+    start: 822,
+    end: 833,
+    text: "Ma vie a commencé dans la douleur, d'une certaine manière."
+  },
+  {
+    start: 833,
+    end: 842,
+    text: "La femme qui m'a donné naissance m'a mis au monde dans le grenier d'une école... puis..."
+  },
+  {
+    start: 842,
+    end: 853,
+    text: "Elle m'a abandonné."
+  },
+  {
+    start: 853,
+    end: 860,
+    text: "J'ai été placé dans un établissement appelé une pouponnière, destiné aux enfants."
+  },
+  {
+    start: 860,
+    end: 869,
+    text: "Jusqu'à mes quatorze ans, elle a refusé de me reconnaître comme son fils. Mais elle a été obligée de le faire..."
+  },
+  {
+    start: 869,
+    end: 874,
+    text: "Car on lui avait dit que, si elle refusait, elle devrait se soumettre à un test ADN."
+  },
+  {
+    start: 874,
+    end: 885,
+    text: "J'ai donc reçu un document officiel indiquant que je devais rentrer chez moi et qu'ils étaient obligés de m'accueillir."
+  },
+  {
+    start: 885,
+    end: 892,
+    text: "C'était la première fois que je la voyais."
+  },
+  {
+    start: 892,
+    end: 900,
+    text: "On m'a dit que si je n'allais pas travailler, je ne pourrais pas manger et qu'on ne me donnerait rien à manger."
+  },
+  {
+    start: 900,
+    end: 909,
+    text: "Un week-end, nous étions assis à table et... j'ai eu l'idée de demander qui était mon père."
+  },
+  {
+    start: 909,
+    end: 919,
+    text: "À ce moment-là, son mari a crié très fort : « Je vais chercher une batte et le tuer ! » J'ai réussi à sauter par-dessus la clôture."
+  },
+  {
+    start: 919,
+    end: 929,
+    text: "Je n'avais nulle part où dormir ni personne vers qui me tourner. À ce moment-là, j'ai décidé que la vie ne valait plus la peine d'être vécue."
+  },
+  {
+    start: 929,
+    end: 932,
+    text: "Je me suis réveillé à l'hôpital."
+  },
+  {
+    start: 932,
+    end: 940,
+    text: "Plus tard, j'ai compris que si Dieu m'avait donné une seconde chance, je devais faire quelque chose de ma vie."
+  },
+  {
+    start: 940,
+    end: 948,
+    text: "Petit à petit, je me suis adapté, j'ai laissé les traumatismes derrière moi..."
+  },
+  {
+    start: 948,
+    end: 955,
+    text: "Et j'ai commencé à découvrir la musique et des personnes bonnes et formidables."
+  },
+  {
+    start: 955,
+    end: 962,
+    text: "Pas à pas. En 2017..."
+  },
+  {
+    start: 962,
+    end: 972,
+    text: "Une station de radio roumaine a organisé un concours..."
+  },
+  {
+    start: 972,
+    end: 978,
+    text: "Pour gagner des billets pour Tomorrowland."
+  },
+  {
+    start: 978,
+    end: 987,
+    text: "Pendant toute une semaine, j'ai écouté jour et nuit, en laissant mon ordinateur allumé en permanence : j'écoutais, je cliquais et je cumulais des points."
+  },
+  {
+    start: 987,
+    end: 996,
+    text: "Puis le téléphone a sonné. « Luca, reste en ligne pour parler du kit du festival. » « Oui, bien sûr. » — « Parfait. En fait, Luca ? »"
+  },
+  {
+    start: 996,
+    end: 1007,
+    text: "« Oui ? » — « Tu vas à Tomorrowland ! » Tomorrowland a complètement changé ma vie."
+  },
+  {
+    start: 1007,
+    end: 1019,
+    text: "Je n'avais jamais ressenti une telle joie auparavant. Y aller était mon rêve ultime."
+  },
+  {
+    start: 1019,
+    end: 1028,
+    text: "Cela m'a fait découvrir un tout nouveau monde. J'ai rencontré..."
+  },
+  {
+    start: 1028,
+    end: 1042,
+    text: "Des personnes formidables, et environ 80 % de mes amis actuels viennent de Tomorrowland."
+  },
+  {
+    start: 1042,
+    end: 1054,
+    text: "Se dire que l'avenir ira bien, qu'on peut continuer à avancer et se faire de nouveaux amis, c'est quelque chose d'extraordinaire."
+  },
+  {
+    start: 1054,
+    end: 1077,
+    text: "C'est presque quelque chose de pur."
+  },
+  // Passion and community
+  {
+    start: 1077,
+    end: 1090,
+    text: "Pour me présenter, je m'appelle Fahbeer Suchada Sopajaree. Je suis principalement propriétaire d'un bar à Bangkok."
+  },
 
 
 
