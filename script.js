@@ -217,6 +217,233 @@ const subtitles = [
       end: 426,
       text: "Je travaille dans la musique depuis presque quinze ans, je crois. Mais je fais de la photographie depuis plus de vingt ans."
     },
+        {
+      start: 426,
+      end: 429,
+      text: "Je m'appelle Olav. Olav Stubberud."
+    },
+    {
+      start: 429,
+      end: 437,
+      text: "Je viens de Norvège, mais je vis aux États-Unis depuis quatre ans, dont trois à New York."
+    },
+    {
+      start: 437,
+      end: 444,
+      text: "C'est chez moi, maintenant. J'ai passé presque toute ma carrière à voyager."
+    },
+    {
+      start: 444,
+      end: 451,
+      text: "Dix-sept ans de voyages, pratiquement sans interruption. J'ai grandi en Norvège."
+    },
+    {
+      start: 451,
+      end: 460,
+      text: "J'ai eu une enfance formidable. J'ai pratiqué tous les sports possibles. J'avais deux voisins qui s'appelaient Stoll et Alec."
+    },
+    {
+      start: 460,
+      end: 468,
+      text: "Ils ont commencé très tôt le snowboard et le skateboard. Tout le monde se filmait et se photographiait en train de faire des choses."
+    },
+    {
+      start: 468,
+      end: 475,
+      text: "Je suis finalement devenu celui qui adorait tenir la caméra. C'était peut-être une réaction en chaîne..."
+    },
+    {
+      start: 475,
+      end: 484,
+      text: "Quand j'essayais beaucoup de choses, je finissais généralement par me blesser. Mais les soins sont gratuits en Norvège, donc ce n'était pas grave."
+    },
+    {
+      start: 484,
+      end: 495,
+      text: "À treize ans, j'ai économisé pour acheter mon premier appareil photo. La seule chose que je voulais vraiment faire, c'était de la photographie."
+    },
+    {
+      start: 495,
+      end: 504,
+      text: "Le grand tournant, c'est quand j'ai quitté l'école. C'est l'une des décisions les plus importantes qu'on puisse prendre quand on est jeune."
+    },
+    {
+      start: 504,
+      end: 511,
+      text: "Dire : « J'arrête. Je ne veux plus faire ça. » C'était l'une des meilleures décisions de ma vie."
+    },
+    {
+      start: 511,
+      end: 519,
+      text: "À dix-huit ans, j'avais déjà passé 250 jours en voyage, car je saisissais toutes les occasions possibles."
+    },
+    {
+      start: 519,
+      end: 528,
+      text: "Mes amis me demandaient : « Tu fais quoi aujourd'hui ? » Je répondais : « Je suis en Nouvelle-Zélande » ou « au Japon », pendant qu'eux étaient encore sur les bancs de l'école."
+    },
+    {
+      start: 528,
+      end: 537,
+      text: "Enchanté de te rencontrer. — Moi aussi. C'était un set incroyable. Je peux te prendre en photo ? Bien sûr. — Génial, regarde l'objectif."
+    },
+    {
+      start: 537,
+      end: 543,
+      text: "Juste là. Très bien. Prêt ? Un, deux. Parfait."
+    },
+    {
+      start: 543,
+      end: 549,
+      text: "Après les sports d'action, la première grande catégorie dans laquelle je me suis spécialisé a été la musique."
+    },
+    {
+      start: 549,
+      end: 558,
+      text: "J'ai été engagé pour photographier un nouvel artiste norvégien appelé Kygo, qui commençait à se faire connaître sur SoundCloud."
+    },
+    {
+      start: 558,
+      end: 562,
+      text: "Le courant est bien passé entre nous et il devait jouer dans un festival peu après."
+    },
+    {
+      start: 562,
+      end: 572,
+      text: "Je lui ai proposé de venir photographier le festival. Il a accepté et j'ai passé la journée avec lui."
+    },
+    {
+      start: 572,
+      end: 579,
+      text: "Son manager m'a pratiquement dit : « Oui, tu viens avec nous. »"
+    },
+    {
+      start: 579,
+      end: 587,
+      text: "Après Kygo, tout est allé très vite. J'ai commencé à partir en tournée avec Martin Garrix, Justin Bieber..."
+    },
+    {
+      start: 587,
+      end: 597,
+      text: "Axwell & Ingrosso, Swedish House Mafia, Post Malone, The Chainsmokers, G-Eazy, PartyNextDoor, Halsey, Skrillex et Fred again.."
+    },
+    {
+      start: 597,
+      end: 606,
+      text: "Oui, beaucoup d'artistes différents. Ça a été une aventure folle : sept années de tournées très intenses."
+    },
+    {
+      start: 606,
+      end: 611,
+      text: "Il était très difficile de ralentir le rythme et de freiner tout ce qui se passait."
+    },
+    {
+      start: 611,
+      end: 622,
+      text: "Quand on roule à 160 km/h, il faut plus de temps pour freiner. C'est exactement ce qui m'est arrivé."
+    },
+    {
+      start: 622,
+      end: 624,
+      text: "En 2018..."
+    },
+    {
+      start: 624,
+      end: 634,
+      text: "J'ai perdu mon père, soudainement. Et il y avait tous ces..."
+    },
+    {
+      start: 634,
+      end: 643,
+      text: "Tous ces signes qui me disaient de ralentir. Mais je ne voulais pas vraiment..."
+    },
+    {
+      start: 643,
+      end: 646,
+      text: "Je ne voulais pas ralentir."
+    },
+    {
+      start: 646,
+      end: 663,
+      text: "Aujourd'hui, je me dis que j'aurais dû ralentir et passer davantage de temps avec mes proches. Mais au fond, c'est ce qu'il voulait que je fasse."
+    },
+    {
+      start: 663,
+      end: 670,
+      text: "Ces signes m'ont obligé à ralentir, mais ils m'en ont aussi donné la possibilité."
+    },
+    {
+      start: 670,
+      end: 677,
+      text: "C'était beau et douloureux de comprendre que je ne vivais peut-être pas la vie dont j'étais capable."
+    },
+    {
+      start: 677,
+      end: 684,
+      text: "J'ai fini par avoir l'impression de produire des photos à la chaîne. Je ne ressentais plus rien en appuyant sur le déclencheur."
+    },
+    {
+      start: 684,
+      end: 690,
+      text: "Il n'y avait plus rien. Ce n'était plus un instant particulier. Je ne ressentais rien, je n'étais même plus nerveux."
+    },
+    {
+      start: 690,
+      end: 699,
+      text: "C'était triste, car j'avais la chance de photographier de grands artistes dans leur domaine..."
+    },
+    {
+      start: 699,
+      end: 705,
+      text: "Mais je n'avais pas l'impression de réussir à capturer leur grandeur."
+    },
+    {
+      start: 705,
+      end: 709,
+      text: "J'ai regardé tous ces fichiers et je me suis dit..."
+    },
+    {
+      start: 709,
+      end: 718,
+      text: "« Je déteste ces photos. » J'ai eu une réaction complètement opposée et j'ai commencé à utiliser beaucoup d'appareils argentiques."
+    },
+    {
+      start: 718,
+      end: 722,
+      text: "Je crois qu'après ça, je ne suis presque jamais revenu en arrière."
+    },
+    {
+      start: 722,
+      end: 730,
+      text: "Venir à Tomorrowland et pouvoir photographier avec les formats que j'ai toujours admirés, c'est incroyable."
+    },
+    {
+      start: 730,
+      end: 737,
+      text: "J'ai participé à beaucoup de festivals, même si je ne les ai pas tous vus."
+    },
+    {
+      start: 737,
+      end: 740,
+      text: "Très peu de festivals ont la même atmosphère que Tomorrowland."
+    },
+    {
+      start: 740,
+      end: 746,
+      text: "Pouvoir installer son appareil photo et passer une demi-heure sur une seule prise..."
+    },
+    {
+      start: 746,
+      end: 755,
+      text: "Cela oblige à ralentir, à ressentir les choses, à réfléchir à ce que l'on fait, à pourquoi on le fait et à donner un sens à ses actions."
+    },
+    {
+      start: 755,
+      end: 760,
+      text: "Et au bout du compte, c'est la vie que je veux mener."
+    },
+    // Victor experience ---------------------------------------------------------------------------------------
+    
 
 
 
